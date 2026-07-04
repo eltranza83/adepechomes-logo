@@ -12,6 +12,14 @@ This repository contains the official, high-resolution vector logo assets for **
 * **Best Used For**: Black/dark caps, dark-colored hoodies, dark banners, and dark digital backgrounds.
 * **Colors**: Gold A-frame logo symbol and horizontal lines, with **Pure White (`#FFFFFF`)** typography for readability.
 
+### 3. `logo-light-bg-slit.svg`
+* **Best Used For**: Light/white caps, light-colored T-shirts.
+* **Feature**: Same as the light-theme logo, but with the **house symbol's bottom slit widened to 4.5px** to visually balance with the outer spacing.
+
+### 4. `logo-dark-bg-slit.svg`
+* **Best Used For**: Black/dark caps, dark hoodies.
+* **Feature**: Same as the dark-theme logo, but with the **house symbol's bottom slit widened to 4.5px** to visually balance with the outer spacing.
+
 ---
 
 ## Technical Specifications
