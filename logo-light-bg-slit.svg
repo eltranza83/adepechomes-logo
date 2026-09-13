@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" width="100%" height="100%">
   <defs>
-    <!-- Gold gradient for digital display/printing -->
+    <!-- Champagne Sandstone gradient matching website -->
     <linearGradient id="gold-grad" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C5A059"/>
-      <stop offset="50%" stop-color="#F1D7A7"/>
-      <stop offset="100%" stop-color="#B28741"/>
+      <stop offset="0%" stop-color="#C8B69A"/>
+      <stop offset="50%" stop-color="#E8DEC8"/>
+      <stop offset="100%" stop-color="#A8967D"/>
     </linearGradient>
     
     <!-- Link the Syne font so it renders correctly -->
@@ -25,7 +25,7 @@
         font-size: 10px;
         letter-spacing: 0.28em;
         text-transform: uppercase;
-        fill: #0a0a0a; /* Dark text for light backgrounds */
+        fill: #8C775D; /* Warm bronze text for light backgrounds */
         text-anchor: middle;
       }
     </style>
@@ -44,8 +44,8 @@
   <text x="100" y="172" class="logo-sub">HOMES</text>
   
   <!-- Left horizontal gold bar (shifted left by 2px to balance the gaps visually based on font metrics) -->
-  <line x1="22" y1="168" x2="61" y2="168" stroke="#C5A059" stroke-width="1.5"/>
+  <line x1="22" y1="168" x2="61" y2="168" stroke="#A8967D" stroke-width="1.5"/>
   
   <!-- Right horizontal gold bar (shifted left by 2px to balance the gaps visually based on font metrics) -->
-  <line x1="135" y1="168" x2="174" y2="168" stroke="#C5A059" stroke-width="1.5"/>
+  <line x1="135" y1="168" x2="174" y2="168" stroke="#A8967D" stroke-width="1.5"/>
 </svg>

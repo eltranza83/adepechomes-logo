@@ -28,11 +28,12 @@ This repository contains the official, high-resolution vector logo assets for **
 
 | Element | Hex Color Code | RGB Values | Use Case |
 |---|---|---|---|
-| **Gold Primary** | `#C5A059` | `197, 160, 89` | House Symbol & Underlines |
-| **Gold Mid/Light** | `#F1D7A7` | `241, 215, 167` | Gradient (Digital Display) |
-| **Gold Dark Accent** | `#B28741` | `178, 135, 65` | Gradient (Digital Display) |
-| **Charcoal Dark** | `#0A0A0A` | `10, 10, 10` | Light-theme Typography |
-| **Pure White** | `#FFFFFF` | `255, 255, 255` | Dark-theme Typography |
+| **Champagne Sandstone Primary** | `#C8B69A` | `200, 182, 154` | House Symbol, Underlines & Website Gold |
+| **Champagne Mid/Light** | `#E8DEC8` | `232, 222, 200` | Gradient Highlight (Digital Display) |
+| **Bronze Dark Accent** | `#A8967D` | `168, 150, 125` | Gradient Shadow & Light-Theme Underlines |
+| **Light-Theme Warm Bronze** | `#8C775D` | `140, 119, 93` | Light-Theme "HOMES" Typography |
+| **Charcoal Dark** | `#0A0A0A` | `10, 10, 10` | Light-theme Primary Typography |
+| **Pure White** | `#FFFFFF` | `255, 255, 255` | Dark-theme Primary Typography |
 
 ### Typography
 * **Primary Font**: `Syne` (Bold / Heavy weight)
@@ -48,5 +49,5 @@ If you are getting caps embroidered (like the mockups):
 1. **Send the SVG directly**: Provide the `.svg` files from this repo to the embroidery vendor. They can scale them without losing quality.
 2. **Digitization**: The shop will convert the SVG into a stitch file (usually `.DST` or `.PES` format).
 3. **Thread Mapping**:
-   * **House Symbol & Lines**: Request **Gold Metallic Thread** or a rich gold color matching `#C5A059`.
+   * **House Symbol & Lines**: Request **Champagne Sandstone Thread** or warm gold matching `#C8B69A`.
    * **Text ("ADEPEC HOMES")**: Use **White Thread** on black/dark caps, and **Black Thread** on white/light caps.
