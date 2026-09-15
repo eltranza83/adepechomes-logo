@@ -25,7 +25,7 @@
         font-size: 10px;
         letter-spacing: 0.28em;
         text-transform: uppercase;
-        fill: #C8B69A; /* Champagne Sandstone matching website */
+        fill: #FFFFFF; /* Match ADEPEC on dark backgrounds */
         text-anchor: middle;
       }
     </style>

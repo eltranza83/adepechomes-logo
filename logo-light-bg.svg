@@ -25,7 +25,7 @@
         font-size: 10px;
         letter-spacing: 0.28em;
         text-transform: uppercase;
-        fill: #8C775D; /* Warm bronze text for light backgrounds */
+        fill: #0a0a0a; /* Match ADEPEC on light backgrounds */
         text-anchor: middle;
       }
     </style>
